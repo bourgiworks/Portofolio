@@ -1,0 +1,7 @@
+{
+    "env":{
+    "DB_CONNECTION": "mongodb+srv://bourgiworks:bourguiba12@cluster0.w1sd4.mongodb.net/Brand?retryWrites=true&w=majority",
+    "JWT_KEY" : "secret",
+    "PORT":7001
+    }
+    }
